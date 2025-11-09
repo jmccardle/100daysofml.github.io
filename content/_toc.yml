@@ -126,3 +126,11 @@ parts:
         title: "Day 34 - Gradient Boosting Machines (GBM) and XGBoost"
       - file: Week_07/Lesson_35.ipynb
         title: "Day 35 - Advanced Ensemble Techniques and Their Applications"
+
+  - caption: "Week 21: Capstone Project"
+    chapters:
+    - file: Week_21/021_Overview.md
+      title: "Week_21: Overview"
+      sections:
+      - file: Week_21/Lesson_101.ipynb
+        title: "Day 101 - End-to-End Machine Learning Project Workflow"
